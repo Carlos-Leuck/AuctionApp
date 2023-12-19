@@ -1,7 +1,4 @@
-﻿using MongoDB.Entities;
-using SearchService.Models;
-
-namespace SearchService.RequestHelpers;
+﻿namespace SearchService.RequestHelpers;
 
 public class SearchParams
 {
