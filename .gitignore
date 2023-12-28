@@ -484,3 +484,4 @@ $RECYCLE.BIN/
 *.swp
 /.vscode
 /.editorconfig
+/frontend/web-app/package-lock.json
